@@ -9,3 +9,11 @@ LED 3 turns on after another delay
 Once all three are on, they gradually fade out at the same time                                    
 
 The fade-out effect is created by the discharge of capacitors, which reduces the current smoothly instead of cutting it off.
+
+### Components
+3 × LEDs                                                                                            
+6 x Resistors (for current limiting and timing)                                                    
+3 x Capacitors (for delay and fade effect)                                                          
+1 × Battery                                                                                        
+1 × Switch                                                                                         
+1 x Breadboard                                                                                     some jumper wires
