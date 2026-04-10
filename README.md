@@ -12,8 +12,8 @@ The fade-out effect is created by the discharge of capacitors, which reduces the
 
 ### Components
 3 × LEDs                                                                                            
-6 x Resistors (for current limiting and timing)                                                    
-3 x Capacitors (for delay and fade effect)                                                          
+6 × Resistors (for current limiting and timing)                                                    
+3 × Capacitors (for delay and fade effect)                                                          
 1 × Battery                                                                                        
 1 × Switch                                                                                         
-1 x Breadboard                                    and some jumper wires
+1 × Breadboard                                    and some jumper wires
